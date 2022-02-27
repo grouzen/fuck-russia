@@ -6,7 +6,7 @@ Fuck them all!
 
 ## Prerequisites
 - Open your VPN client and choose "russia" because fucking russia can block other countries (especially Ukraine):
-![vpn image](images/vpn_client.jpg)
+![vpn image](images/vpn_client.jpg){ width=50% }
 - Connect your laptop to power, because this script consumes **a lot** of energy.
 
 ## Installation

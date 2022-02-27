@@ -9,8 +9,9 @@ Fuck them all!
 ![vpn image](images/vpn_client.jpg)
 Some of the VPNs which _may_ have free plans:
 	- https://www.tunnelbear.com/
-	- https://my.clearvpn.com/promo/redeem?code=SAVEUKRAINE
+	- https://my.clearvpn.com/
 	- https://www.urban-vpn.com/
+	- google for more if you don't have a paid one
 - Connect your laptop to power, because this script consumes **a lot** of energy.
 
 ## Installation

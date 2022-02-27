@@ -24,4 +24,11 @@ Some of the VPNs which _may_ have free plans:
 - Run `chmod a+x fuck-russia.sh`
 - Fuck russia!
 
+## Run
+
+```
+$ $EDITOR resource.list
+$ ./fuck-russion.sh
+```
+
 Слава Україні! Героям Слава!
